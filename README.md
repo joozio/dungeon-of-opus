@@ -27,6 +27,10 @@ npm run dev
 
 I asked Claude Opus 4.6 to build a complete roguelike in one React component. No game engine, no sprite sheets, no external libraries. Just React, TypeScript, and emoji. The result is a fully playable dungeon crawler with more depth than most game jam entries.
 
+## Related
+
+See also: [wiz-experiments](https://github.com/joozio/wiz-experiments) — 44+ more interactive AI experiments
+
 ## Built With
 
 - React 19
@@ -37,3 +41,9 @@ I asked Claude Opus 4.6 to build a complete roguelike in one React component. No
 ## License
 
 MIT
+
+---
+
+Built by [Pawel Jozefiak](https://thoughts.jock.pl). I write about AI agents, automation, and building in public at **[Digital Thoughts](https://thoughts.jock.pl)** (1,000+ subscribers).
+
+[Subscribe to the newsletter](https://thoughts.jock.pl/subscribe) | [More projects](https://github.com/joozio) | [@joozio](https://x.com/joozio)
